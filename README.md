@@ -1,5 +1,7 @@
 # leetCodeWithKotlin
-This repository contains all the solutions of the Attempted Problems. This repository is a 100 day coding challenge of mine.
+This repository contains all the solutions of the Attempted Problems. This repository is a 100 day coding challenge of mine. 
+Starting Date : 28-Feb-2022
+End Date      : 06-May-2022
 
 **Problems**
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)<br />
