@@ -1,5 +1,5 @@
 # leetCodeWithKotlin
-This repository contains all the solutions of the Attempted Problems. <br />
+This repository contains all the solutcvbcions of the Attempted Problems. <br />
 This repository is a 100 day coding challenge of mine. <br />
 Starting Date : 28-Feb-2022<br />
 End Date      : 06-May-2022<br />
