@@ -1,5 +1,5 @@
 # leetCodeWithKotlin
-This repository contains all the solutcvbcions of the Attempted Problems. <br />
+This repository contains all the solutions of the Attempted Problems. <br />
 This repository is a 100 day coding challenge of mine. <br />
 Starting Date : 28-Feb-2022<br />
 End Date      : 06-May-2022<br />
@@ -17,5 +17,5 @@ End Date      : 06-May-2022<br />
 * [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)<br />
   [Solution](https://github.com/Hem-Open-Source/leetCodeWithKotlin/blob/main/7.%20Reverse%20Integer.kt)
   
-* []()<br />
-  []()
+* [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)<br />
+  [Solution](https://github.com/Hem-Open-Source/leetCodeWithKotlin/blob/main/14.%20Longest%20Common%20Prefix.kt)
