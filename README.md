@@ -4,6 +4,13 @@ This repository is a 100 day coding challenge of mine. <br />
 Starting Date : 28-Feb-2022<br />
 End Date      : 06-May-2022<br />
 
+Patterns
+1. Window Slicing problem
+2. Backtracking
+3. Dynamic Programming
+4. Greedy Approach
+5. Two Pointers Approach
+
 **Problems**
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)<br />
   [Solution](https://github.com/Hem-Open-Source/leetCodeWithKotlin/blob/main/1.%20Two%20Sum.kt)
